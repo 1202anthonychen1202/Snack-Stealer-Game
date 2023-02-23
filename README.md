@@ -1,5 +1,7 @@
 # Snack-Stealer-Game
-Game created for Hopper Hacks 2023
+2-D top-down game created in Unity for Hopper Hacks 2023
+
+## Quick Start Guide
 
 IMPORTANT: Please make these changes before the game package is imported to the Unity Editor. Failure to do so will result in invisible sprites and broken camera. <br />
 
