@@ -1,27 +1,28 @@
 # Snack-Stealer-Game
 Game created for Hopper Hacks 2023
 
-IMPORTANT: Please make these changes before the game package is imported to the Unity Editor. Failure to do so will result in invisible sprites and broken camera.
+IMPORTANT: Please make these changes before the game package is imported to the Unity Editor. Failure to do so will result in invisible sprites and broken camera. <br />
 
-DOWNLOAD CINEMACHINE FROM PACKAGE MANAGER
+DOWNLOAD CINEMACHINE FROM PACKAGE MANAGER <br />
 
-ADD SORTING LAYERS:
+ADD SORTING LAYERS: <br />
 
-LAYER 1: Background
-LAYER 2: Table
-LAYER 3: Food
-LAYER 4: Player
+LAYER 1: Background <br />
+LAYER 2: Table <br />
+LAYER 3: Food <br />
+LAYER 4: Player <br />
 
-ADD SORTING LAYERS TO THE FOLLOWING:
+ADD SORTING LAYERS TO THE FOLLOWING: <br />
 
-Object:     Layer:
-Background  Background
-Table       Table
-Big Table   Table
-Hopper      Table
-Snack       Food
-Player      Player
-Enemy       Player
+Example: GAME OBJECT -> LAYER NAME <br />
+
+Background -> Background <br />
+Table ->      Table <br />
+Big Table ->  Table <br />
+Hopper ->     Table <br />
+Snack ->      Food <br />
+Player ->     Player <br />
+Enemy ->      Player <br />
 
 
 
