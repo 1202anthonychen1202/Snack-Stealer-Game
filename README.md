@@ -1,5 +1,5 @@
 # Snack-Stealer-Game
-2-D top-down game created in Unity for Hopper Hacks 2023
+2-D top-down game created in Unity for Hopper Hacks 2023 
 
 ## Quick Start Guide
 
